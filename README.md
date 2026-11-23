@@ -103,14 +103,15 @@ $ philosophy
 </div>
 
 
-## `05 // CONTRIBUTION_ACTIVITY`
+## `05 // LAST_30_DAYS_ACTIVITY`
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/Shihab2001/Shihab2001/output/github-contribution-grid-snake.svg"
-     alt="GitHub Contribution Snake"
-     width="100%"/>
-
+  <img
+    src="https://raw.githubusercontent.com/Shihab2001/Shihab2001/output/last-30-days.svg"
+    alt="Last 30 Days GitHub Activity"
+    width="100%"
+  />
+  <p><sub>Hover over any square to see the date and contribution count.</sub></p>
 </div>
 
 
