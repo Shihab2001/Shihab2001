@@ -132,7 +132,7 @@ async function generateActivity() {
   );
 
   console.log("Last 30 days activity SVG generated successfully.");
-}
+} 
 
 generateActivity().catch((error) => {
   console.error(error);
