@@ -10,13 +10,13 @@
 
 # `> Hello, World!` 👋
 
-### Khalid Bin Sayed Shihab
+### Md. Khalid Bin Sayed Shihab
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=1C8139&center=true&vCenter=true&width=650&lines=_sqa+engineer;_software+enthusiast;_building+reliable+software;_breaking+things+to+make+them+better" />
 
 <br/>
 
-`< Building />` `</ Testing >` `< Improving />`
+`< _building />` `</ _testing >` `< _improving />`
 
 <br/>
 
