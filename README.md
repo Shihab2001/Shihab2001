@@ -7,7 +7,7 @@
 
 ### I'm Khalid Bin Sayed Shihab
 
-**Software Developer | SQA Engineer**
+**SQA Engineer** | **Software Enthusiast**
 
 `Building` · `Testing` · `Improving`
 
