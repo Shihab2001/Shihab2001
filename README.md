@@ -1,19 +1,33 @@
 
 <!-- ========== HEADER ========== -->
 
+
 <div align="center">
-
-# `> Hello, World!` 👋
-
-### I'm Khalid Bin Sayed Shihab
-
-**SQA Engineer** | **Software Enthusiast**
-
-`Building` · `Testing` · `Improving`
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:003B1F,50:008F45,100:00FF66&height=3&section=header" width="100%"/>
 
+<br/>
+
+# `> Hello, World!` 👋
+
+### Khalid Bin Sayed Shihab
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=650&lines=Software+Developer;SQA+Engineer;Building+Reliable+Software;Breaking+Things+To+Make+Them+Better" />
+
+<br/>
+
+`< Building />` `</ Testing >` `< Improving />`
+
+<br/>
+
+**Think. Code. Test. Repeat.**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF66,50:008F45,100:003B1F&height=3&section=header" width="100%"/>
+
 </div>
+
 
 <!-- ========== ABOUT ========== -->
 
