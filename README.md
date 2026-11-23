@@ -30,7 +30,7 @@ $ mission
 Building reliable software and testing beyond the obvious.
 
 $ current_focus
-Web Development | Software Quality | Automation Testing
+ Software Quality | Automation Testing | Performance Testing | Security Testing | AI Innovation
 
 $ philosophy
 "If users feel friction, I treat it as a bug."
