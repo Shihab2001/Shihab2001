@@ -12,7 +12,7 @@
 
 ### Khalid Bin Sayed Shihab
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=650&lines=SQA+Engineer;Software+Enthusiast;Building+Reliable+Software;Breaking+Things+To+Make+Them+Better" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=1C8139&center=true&vCenter=true&width=650&lines=_sqa+engineer;_software+enthusiast;_building+reliable+software;_breaking+things+to+make+them+better" />
 
 <br/>
 
