@@ -85,7 +85,7 @@ $ philosophy
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00FF66)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/khalid-bin-sayed-shihab/))
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=00FF66)](https://khalidbinsayed.com)
+[![Website](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=00FF66)](https://khalidbinsayed.com)
 [![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=00FF66)](https://github.com/Shihab2001)
 
 </div>
