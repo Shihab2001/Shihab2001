@@ -68,13 +68,29 @@ $ philosophy
 ![JMeter](https://img.shields.io/badge/JMeter-0A0A0A?style=for-the-badge&logo=apachejmeter&logoColor=00FF66)
 ![Jira](https://img.shields.io/badge/Jira-0A0A0A?style=for-the-badge&logo=jira&logoColor=00FF66)
 
+
 ## `03 // FEATURED_PROJECTS`
 
-| Project | Description | Tech |
-|:---|:---|:---|
-| **MediaGrab** | Video downloader application | React, Node.js, Python |
-| **MediCore** | Healthcare management system | Web Technologies |
-| **Pocket Ledger** | Personal expense tracking application | MERN Stack |
+<div align="center">
+
+<a href="https://github.com/Shihab2001/MediaGrab-Video-downloader">
+  <img src="./assets/projects/mediagrab.svg" width="100%" alt="MediaGrab project card"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/Shihab2001/SaaS-system-for-Shops">
+  <img src="./assets/projects/SaaS-system-for-Shops.svg" width="100%" alt="SaaS system for Shops"/>
+</a>
+
+<br/>
+
+<!-- <a href="YOUR_POCKET_LEDGER_REPOSITORY_URL">
+  <img src="./assets/projects/pocket-ledger.svg" width="100%" alt="Pocket Ledger project card"/>
+</a>
+
+</div> -->
+
 
 ## `04 // GITHUB_ANALYTICS`
 
