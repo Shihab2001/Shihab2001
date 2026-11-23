@@ -89,7 +89,7 @@ $ philosophy
   <img src="./assets/projects/pocket-ledger.svg" width="100%" alt="Pocket Ledger project card"/>
 </a>
 
-</div> -->
+</div> --> 
 
 
 ## `04 // GITHUB_ANALYTICS`
