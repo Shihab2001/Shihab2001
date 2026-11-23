@@ -62,13 +62,13 @@ async function generateActivity() {
 
   const dayMap = new Map(days.map((day) => [day.date, day]));
 
-  const colors = {
-    NONE: "#161b22",
-    FIRST: "#0e4429",
-    SECOND: "#006d32",
-    THIRD: "#26a641",
-    FOURTH: "#39d353",
-  };
+  function getColor(count) {
+  if (count === 0) return "#161b22";
+  if (count <= 3) return "#0e4429";
+  if (count <= 6) return "#006d32";
+  if (count <= 10) return "#26a641";
+  return "#39d353";
+  }
 
   const squares = [];
 
@@ -80,8 +80,7 @@ async function generateActivity() {
     const day = dayMap.get(dateString);
 
     const count = day?.contributionCount ?? 0;
-    const level = day?.contributionLevel ?? "NONE";
-    const color = colors[level] || colors.NONE;
+    const color = getColor(count);
 
     const x = (i % 10) * 66;
     const y = Math.floor(i / 10) * 40;
@@ -113,6 +112,7 @@ async function generateActivity() {
 
   const svg = `
     <svg xmlns="http://www.w3.org/2000/svg"
+     style="background: transparent;"
          width="660"
          height="120"
          viewBox="0 0 660 120"
