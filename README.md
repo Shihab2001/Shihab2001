@@ -102,13 +102,17 @@ $ philosophy
 
 </div>
 
+
 ## `05 // CONTRIBUTION_ACTIVITY`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shihab2001&bg_color=080B09&color=00FF66&line=00FF66&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+<img src="https://raw.githubusercontent.com/Shihab2001/Shihab2001/output/github-contribution-grid-snake.svg"
+     alt="GitHub Contribution Snake"
+     width="100%"/>
 
 </div>
+
 
 ## `06 // CONNECT_WITH_ME`
 
