@@ -19,12 +19,20 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       - name: Generate contribution snake
         uses: Platane/snk@v3
         with:
           github_user_name: Shihab2001
           outputs: |
             dist/github-contribution-grid-snake.svg?color_snake=%2300FF66&color_dots=%23161B22,%230E4429,%23006D32,%2326A641,%2339D353
+
+      - name: Generate last 30 days activity
+        run: node scripts/generate-activity.js
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push generated files
         uses: crazy-max/ghaction-github-pages@v3.1.0
