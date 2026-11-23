@@ -103,7 +103,17 @@ $ philosophy
 </div>
 
 
-## `05 // LAST_30_DAYS_ACTIVITY`
+## `05 // CONTRIBUTION_ACTIVITY`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Shihab2001/Shihab2001/output/github-contribution-grid-snake.svg"
+     alt="GitHub Contribution Snake"
+     width="100%"/>
+
+</div>
+
+## `06 // LAST_30_DAYS_ACTIVITY`
 
 <div align="center">
   <img
@@ -115,7 +125,7 @@ $ philosophy
 </div>
 
 
-## `06 // CONNECT_WITH_ME`
+## `07 // CONNECT_WITH_ME`
 
 <div align="center">
 
