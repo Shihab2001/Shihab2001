@@ -95,19 +95,20 @@ async function generateActivity() {
     });
 
     squares.push(`
-      <rect
-        x="${x}"
-        y="${y}"
-        width="54"
-        height="28"
-        rx="5"
-        fill="${color}"
-        stroke="#30363d"
-        stroke-width="1"
-      >
-        <title>${formattedDate}: ${count} contributions</title>
-      </rect>
-    `);
+    <g>
+    <title>${formattedDate} — ${count} contributions</title>
+    <rect
+      x="${x}"
+      y="${y}"
+      width="54"
+      height="28"
+      rx="5"
+      fill="${color}"
+      stroke="#30363d"
+      stroke-width="1"
+    />
+  </g>
+  `);
   }
 
   const svg = `
