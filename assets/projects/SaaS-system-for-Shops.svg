@@ -21,7 +21,7 @@
 
   <text x="28" y="105" font-family="monospace"
         font-size="12" fill="#A3A3A3">
-    A modern application to maintain the daily finances for shops.
+    A modern application for managing daily shop finances.
   </text>
 
   <rect x="28" y="125" width="80" height="23" rx="5" fill="#102719"/>
@@ -42,7 +42,7 @@
   </text>
 
   <text x="575" y="173" text-anchor="end"
-        font-family="monospace" font-size="10" fill="#64748B">
+        font-family="monospace" font-size="10" fill="#4ADE80">
     STATUS: COMPLETE
   </text>
 </svg>
